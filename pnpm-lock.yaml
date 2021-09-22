@@ -1,0 +1,24 @@
+lockfileVersion: 5.3
+
+specifiers:
+  commander: ^2.20.3
+  tinyurl: ^1.1.7
+
+dependencies:
+  commander: 2.20.3
+  tinyurl: 1.1.7
+
+packages:
+  /commander/2.20.3:
+    resolution:
+      {
+        integrity: sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==,
+      }
+    dev: false
+
+  /tinyurl/1.1.7:
+    resolution:
+      {
+        integrity: sha512-NCnyDkBTByS/pLH/Vrx/DPL8EciAUDoAvruaM/WnQLfX6Uame3D1nuWNy2Z9CXw7rcsok0tjuonRLolhmyz5rg==,
+      }
+    dev: false

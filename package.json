@@ -1,0 +1,15 @@
+{
+  "name": "carbon-cli",
+  "version": "1.0.0",
+  "description": "carbon for cli",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "carbon": "./index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.3",
+    "tinyurl": "^1.1.7"
+  }
+}
